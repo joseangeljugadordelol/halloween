@@ -9,7 +9,16 @@ body {
     background: #1b1b24;
     color: #ececf1;
 }
-
+body {
+    font-family: Arial, sans-serif;
+   
+    height: 100vh;
+    background-image: url("../imagenes/fondo.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .container {
     max-width: 720px;
     margin: 0 auto;
